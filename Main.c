@@ -1,6 +1,6 @@
 int main()
 {
-    printf("Welcome to Basic-Calc.Basic-Calc is a free and open-source calculator that is under development.New web-site for the project shall be made soon.Basic-Calc currently only supports addition upto 4 numbersThank you for using Basic-Calc,hope you enjoy it.To continue,please press 'Enter' Thanks -Prajith");
+    printf("Welcome to Basic-Calc.Basic-Calc is a free and open-source calculator that is under development.New web-site for the project shall be made soon.Basic-Calc currently only supports addition upto 4 numbersThank you for using Basic-Calc,hope you enjoy it.To continue,please press the 'Enter' button Thanks -Prajith");
     getchar();
     int a,b,c,d;
     printf("Enter the first number to be added:");
